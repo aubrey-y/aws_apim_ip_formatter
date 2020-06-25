@@ -1,0 +1,208 @@
+{
+  "ingressRules": [
+    {
+      "priority": 1,
+      "action": "ALLOW",
+      "sourceRange": "108.128.160.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 2,
+      "action": "ALLOW",
+      "sourceRange": "108.128.162.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 3,
+      "action": "ALLOW",
+      "sourceRange": "13.208.180.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 4,
+      "action": "ALLOW",
+      "sourceRange": "13.235.228.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 5,
+      "action": "ALLOW",
+      "sourceRange": "13.235.6.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 6,
+      "action": "ALLOW",
+      "sourceRange": "13.48.74.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 7,
+      "action": "ALLOW",
+      "sourceRange": "13.52.201.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 8,
+      "action": "ALLOW",
+      "sourceRange": "13.52.202.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 9,
+      "action": "ALLOW",
+      "sourceRange": "15.164.156.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 10,
+      "action": "ALLOW",
+      "sourceRange": "18.138.134.128/25",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 11,
+      "action": "ALLOW",
+      "sourceRange": "18.138.244.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 12,
+      "action": "ALLOW",
+      "sourceRange": "18.144.76.128/25",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 13,
+      "action": "ALLOW",
+      "sourceRange": "18.229.100.0/26",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 14,
+      "action": "ALLOW",
+      "sourceRange": "18.229.99.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 15,
+      "action": "ALLOW",
+      "sourceRange": "3.10.17.0/25",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 16,
+      "action": "ALLOW",
+      "sourceRange": "3.105.172.0/22",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 17,
+      "action": "ALLOW",
+      "sourceRange": "3.112.162.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 18,
+      "action": "ALLOW",
+      "sourceRange": "3.112.96.160/27",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 19,
+      "action": "ALLOW",
+      "sourceRange": "3.12.216.0/22",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 20,
+      "action": "ALLOW",
+      "sourceRange": "3.123.14.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 21,
+      "action": "ALLOW",
+      "sourceRange": "3.123.15.0/25",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 22,
+      "action": "ALLOW",
+      "sourceRange": "3.15.35.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 23,
+      "action": "ALLOW",
+      "sourceRange": "3.15.36.0/26",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 24,
+      "action": "ALLOW",
+      "sourceRange": "3.216.135.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 25,
+      "action": "ALLOW",
+      "sourceRange": "3.216.136.0/21",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 26,
+      "action": "ALLOW",
+      "sourceRange": "3.216.144.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 27,
+      "action": "ALLOW",
+      "sourceRange": "3.216.148.0/22",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 28,
+      "action": "ALLOW",
+      "sourceRange": "3.9.94.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 29,
+      "action": "ALLOW",
+      "sourceRange": "34.223.68.0/22",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 30,
+      "action": "ALLOW",
+      "sourceRange": "34.223.72.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 31,
+      "action": "ALLOW",
+      "sourceRange": "34.223.74.0/25",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 32,
+      "action": "ALLOW",
+      "sourceRange": "35.181.128.0/24",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 33,
+      "action": "ALLOW",
+      "sourceRange": "44.233.54.0/23",
+      "description": "AWS API Gateway"
+    },
+    {
+      "priority": 34,
+      "action": "ALLOW",
+      "sourceRange": "99.79.126.0/24",
+      "description": "AWS API Gateway"
+    }
+  ]
+}
